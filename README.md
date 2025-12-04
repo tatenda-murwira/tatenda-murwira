@@ -1,69 +1,64 @@
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" />
   
-  <h1 align="center">Hi, I'm <a href="https://github.com/YOUR_USERNAME">YOUR_NAME</a></h1>
-  
-  <h3 align="center">🚀 Documenting my journey into Data Science & AI</h3>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Loading+Data+Science+Skills...;Exploring+Machine+Learning;Debugging+Code;Building+My+Foundation" alt="Typing SVG" />
+  <h1 align="center">Hi, I'm <a href="https://github.com/tatenda-murwira">Tatenda A Murwira</a></h1>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Mobile+%26+Web+Developer;Aspiring+Data+Scientist;Flutter+Enthusiast;Machine+Learning+Learner" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3><em>"The expert in anything was once a beginner."</em></h3>
+  <h3><em>"Building the application is just the start. Understanding the data is the goal."</em></h3>
 </div>
 
-### 👨‍💻 My Learning Journey
+### My Tech Journey
 
-I am an aspiring **Machine Learning Engineer** currently building my technical foundation. I am passionate about understanding the "why" behind the algorithms and am actively transitioning from theory to practice.
+I am a "Full Cycle" technologist. I am an **Intermediate Mobile & Web Developer** who loves building polished, user-friendly applications. However, I believe that the true value of software lies in the data it generates.
 
-- 🔭 **Current Focus:** I am deep-diving into **Neural Networks & Deep Learning**.
-- 📚 **Currently Reading/Studying:** [Insert Book or Course Name, e.g., "Hands-On Machine Learning"]
-- 💡 **Goal:** To apply mathematical concepts to solve real-world African challenges.
-- 🧩 **Fun Fact:** I love turning messy data into clean insights.
+That is why I am actively transitioning into **Data Science & Machine Learning**. My goal is to not just build the interface, but to analyze the underlying data to drive decisions and create intelligent systems.
+
+-  **My Roots:** Building cross-platform apps with **Flutter & Web Tech**.
+-  **My Growth:** Mastering **Python, Statistics, & Data Analysis**.
+-  **The Vision:** To build end to end solutions from the mobile UI to the predictive model backend.
+.
 
 ---
 
 <div align="center">
-  <h3>🧠 The Tech Stack</h3>
+  <h3> The Toolbox</h3>
   
-  <p><strong>Checking In (Comfortable):</strong></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <p><strong>Application Development (Intermediate):</strong></p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
   <br /> <br />
 
-  <p><strong>Loading... (Currently Learning):</strong></p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <p><strong>📊 Data Science & ML (The Journey):</strong></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>📊 Consistency Tracker</h3>
-  <p><em>Watching my green squares grow as I learn.</em></p>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
-
----
-
-<div align="center">
-  <h3>🤝 Join My Network</h3>
-  <p>I'd love to connect with mentors and fellow learners!</p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+  <h3>🤝 Let's Connect</h3>
+  <a href="https://www.linkedin.com/in/tatenda-alicia-murwira?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
+  <a href="mailto:bluecore.zw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/Alicia_Tayt?t=eormd6jhvY9OSxfq_YRf7Q&s=09">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
+
+
